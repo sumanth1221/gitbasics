@@ -5,8 +5,8 @@ print('Basics of Git')
 print(2+2)
 
 # Added function for Addition
-def add (a,b):
+def sumOfTwoNumbers (a,b):
     return a+b
 a = 2
 b = 3
-print('Sum is - ', add(a, b))
+print('Sum is - ', sumOfTwoNumbers(a, b))
