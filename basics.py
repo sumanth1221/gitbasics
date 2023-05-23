@@ -1,3 +1,5 @@
 print('Basics of Git')
 
-# typo
+# add two numbers
+
+print(2+2)
