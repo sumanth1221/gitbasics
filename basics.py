@@ -1,1 +1,3 @@
-print('Basic of Git')
+print('Basics of Git')
+
+# typo
